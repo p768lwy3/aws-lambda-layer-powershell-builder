@@ -6,7 +6,7 @@ Since some of the python packages need to be compiled with Cython (or other comp
 
 1. create a folder call ```python``` in the directory of the repo
 2. modify ```requirements.txt```
-3. run ./build_layer.ps1 in poweshell
+3. run ```.\build_layer.ps1``` in poweshell
 4. zip ```python``` folder to ```<any name you like>.zip```
 5. upload to AWS Lambda Layer
 
